@@ -1,21 +1,14 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company: 	   ENGG 2410
+-- Engineer: 	   Owen Douglas
 -- 
 -- Create Date:    18:35:03 11/20/2019 
 -- Design Name: 
 -- Module Name:    ALU_Four - Structural 
--- Project Name: 
+-- Project Name:   Lab 8 - ALU
 -- Target Devices: 
 -- Tool versions: 
--- Description: 
---
--- Dependencies: 
---
--- Revision: 
--- Revision 0.01 - File Created
--- Additional Comments: 
---
+-- Description:    4-Bit complete implementation of our ALU.
 ----------------------------------------------------------------------------------
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
