@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------
--- Company: 
--- Engineer:
+-- Company:       ENGG 2410
+-- Engineer:      Owen Douglas
 --
 -- Create Date:   16:36:04 11/15/2019
 -- Design Name:   
@@ -8,16 +8,8 @@
 -- Project Name:  bit_binary_logic_VHDL
 -- Target Device:  
 -- Tool versions:  
--- Description:   
--- 
--- VHDL Test Bench Created by ISE for module: logic_unit
--- 
--- Dependencies:
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
---
+-- Description:   VHDL Test Bench Created by ISE for module: logic_unit
+
 -- Notes: 
 -- This testbench has been automatically generated using types std_logic and
 -- std_logic_vector for the ports of the unit under test.  Xilinx recommends
