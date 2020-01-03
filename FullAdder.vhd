@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: Owen Douglas
+-- Company:        ENGG 2410
+-- Engineer:       Owen Douglas
 -- 
 -- Create Date:    14:46:53 10/11/2019 
 -- Design Name: 
@@ -8,14 +8,7 @@
 -- Project Name: 
 -- Target Devices: 
 -- Tool versions: 
--- Description: 
---
--- Dependencies: 
---
--- Revision: 
--- Revision 0.01 - File Created
--- Additional Comments: 
---
+-- Description:    Implementation of a 1-bit FA, to be used as a module in the ALU.
 ----------------------------------------------------------------------------------
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
