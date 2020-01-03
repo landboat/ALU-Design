@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company:        ENGG 2410
+-- Engineer:       Owen Douglas
 -- 
 -- Create Date:    16:54:51 11/20/2019 
 -- Design Name: 
@@ -8,14 +8,7 @@
 -- Project Name: 
 -- Target Devices: 
 -- Tool versions: 
--- Description: 
---
--- Dependencies: 
---
--- Revision: 
--- Revision 0.01 - File Created
--- Additional Comments: 
---
+-- Description:    Implementation of a 2:1 MUX, to be used in the ALU to choose between processing through Arithmetic OR Logic unit.
 ----------------------------------------------------------------------------------
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
