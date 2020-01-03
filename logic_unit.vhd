@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company:        ENGG 2410
+-- Engineer:       Owen Douglas
 -- 
 -- Create Date:    16:08:11 11/15/2019 
 -- Design Name: 
@@ -8,14 +8,7 @@
 -- Project Name: 
 -- Target Devices: 
 -- Tool versions: 
--- Description: 
---
--- Dependencies: 
---
--- Revision: 
--- Revision 0.01 - File Created
--- Additional Comments: 
---
+-- Description:    A 1-bit logic unit. Will be used as a module in the ALU to compute logic operations.
 ----------------------------------------------------------------------------------
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
