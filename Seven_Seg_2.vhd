@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company:        ENGG 2410
+-- Engineer:       Owen Douglas
 -- 
 -- Create Date:    15:12:20 11/01/2019 
 -- Design Name: 
@@ -8,14 +8,7 @@
 -- Project Name: 
 -- Target Devices: 
 -- Tool versions: 
--- Description: 
---
--- Dependencies: 
---
--- Revision: 
--- Revision 0.01 - File Created
--- Additional Comments: 
---
+-- Description:    Controls the 7-segment LED display found on the Spartan 6 FPGA.
 ----------------------------------------------------------------------------------
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
