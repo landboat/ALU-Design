@@ -1,23 +1,15 @@
---------------------------------------------------------------------------------
--- Company: 
--- Engineer:
---
+----------------------------------------------------------------------------------
+-- Company: 	  ENGG 2410
+-- Engineer: 	  Owen Douglas
+-- 
 -- Create Date:   16:24:41 11/20/2019
 -- Design Name:   
 -- Module Name:   /home/ise/ISE/ALU/Arithmetic_Single_tb.vhd
 -- Project Name:  ALU
 -- Target Device:  
 -- Tool versions:  
--- Description:   
--- 
--- VHDL Test Bench Created by ISE for module: Arithmetic_VHDL
--- 
--- Dependencies:
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
---
+-- Description:   VHDL Test Bench Created by ISE for module: Arithmetic_VHDL
+
 -- Notes: 
 -- This testbench has been automatically generated using types std_logic and
 -- std_logic_vector for the ports of the unit under test.  Xilinx recommends
