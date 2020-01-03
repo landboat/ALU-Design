@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------
--- Company: 
--- Engineer:
+-- Company:       ENGG 2410
+-- Engineer:      Owen Douglas
 --
 -- Create Date:   22:31:38 11/18/2019
 -- Design Name:   
@@ -8,16 +8,8 @@
 -- Project Name:  ALU
 -- Target Device:  
 -- Tool versions:  
--- Description:   
+-- Description:   VHDL Test Bench Created by ISE for module: Arithmetic_VHDL
 -- 
--- VHDL Test Bench Created by ISE for module: Arithmetic_VHDL
--- 
--- Dependencies:
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
---
 -- Notes: 
 -- This testbench has been automatically generated using types std_logic and
 -- std_logic_vector for the ports of the unit under test.  Xilinx recommends
