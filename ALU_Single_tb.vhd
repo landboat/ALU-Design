@@ -1,23 +1,16 @@
---------------------------------------------------------------------------------
--- Company: 
--- Engineer:
---
--- Create Date:   17:10:05 11/20/2019
+
+----------------------------------------------------------------------------------
+-- Company: 	  ENGG 2410
+-- Engineer: 	  Owen Douglas
+-- 
+-- Create Date:   21:14:31 11/20/2019
 -- Design Name:   
 -- Module Name:   /home/ise/ISE/ALU/ALU_Single_tb.vhd
 -- Project Name:  ALU
 -- Target Device:  
 -- Tool versions:  
--- Description:   
--- 
--- VHDL Test Bench Created by ISE for module: ALU_Single
--- 
--- Dependencies:
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
---
+-- Description:   VHDL Test Bench Created by ISE for module: ALU_Single
+
 -- Notes: 
 -- This testbench has been automatically generated using types std_logic and
 -- std_logic_vector for the ports of the unit under test.  Xilinx recommends
